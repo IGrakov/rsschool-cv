@@ -7,6 +7,8 @@
   - JavaScript
   - HTML
   - CSS
+  - Java
+  - Python
 - Version Control Tools:
   - GitHub
 
