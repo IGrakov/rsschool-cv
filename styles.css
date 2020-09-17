@@ -1,0 +1,43 @@
+.centered {
+    text-align: center;
+}
+
+h1 {
+    font: bold 300%, sans-serif;
+
+}
+
+h2 {
+    font: bold 200%, sans-serif;
+}
+
+h3 {
+    font: 150%, sans-serif;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+.container {
+    text-align: center;
+  }
+
+.container pre {
+    display: inline-block;
+    text-align: left;
+}
+
+.container ul {
+    display: inline-block;
+    text-align: left;
+}
+
+.container ol {
+    display: inline-block;
+    text-align: left;
+}
